@@ -8,7 +8,7 @@ function App() {
   const [question, setQuestion] = useState("");
   const [answer, setAnswer] = useState("");
   const [generatingAnswer, setGeneratingAnswer] = useState(false);
-  const [showSearch, setShowSearch] = useState(false); // To handle search visibility
+  const [showSearch, setShowSearch] = useState(false); // To handle search visibility  
 
   const chatContainerRef = useRef(null);
 
