@@ -11,7 +11,7 @@ function App() {
   const [showSearch, setShowSearch] = useState(false); // To handle search visibility  
 
   const chatContainerRef = useRef(null);
-
+  
   useEffect(() => {
     if (chatContainerRef.current) {
       chatContainerRef.current.scrollTop = chatContainerRef.current.scrollHeight;
