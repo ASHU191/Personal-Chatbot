@@ -7,7 +7,7 @@
   background: transparent;
 }
 
-.scrollbar-thin::-webkit-scrollbar-thumb {
+.scrollbar-thin::-webkit-scrollbar-thumb {   
   background-color: #93C5FD;
   border-radius: 3px;
 }
