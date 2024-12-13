@@ -2,7 +2,7 @@
 
 AI Chat App using Generative Language Client API
 
-[chat-ai](https://personal-chatbot-six.vercel.app/)
+[ASHU-AI](https://personal-chatbot-six.vercel.app/)
 
 ## Setup Procedure
 
